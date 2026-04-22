@@ -289,14 +289,13 @@ test_api.py::test_parse_txt_classify  PASSED
 
 ---
 
-## 👥 Team
+## 👥 Developer
 
-| Name | Role |
-|------|------|
-| Diksha Sharma | Full Stack + NLP Pipeline |
-| — | Backend + Database |
-| — | Frontend + UI/UX |
-| — | Testing + Deployment |
+| Name | GitHub |
+|------|--------|
+| Diksha Sharma | [@deeksha27sharma](https://github.com/deeksha27sharma) |
+
+> Solo project — designed, built and deployed independently.
 
 ---
 
