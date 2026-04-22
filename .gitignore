@@ -1,0 +1,20 @@
+cd /Users/dikshasharma/smart-document-parser
+cat > .gitignore << 'EOF'
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Models (too large for GitHub)
+models/
+*.safetensors
+*.bin
+
+# OS
+.DS_Store
+EOF
